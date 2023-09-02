@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_background">#242424</color>
+    <color name="main_background_text">#FFFFFF</color>
+    <color name="C_button_background">#242424</color>
+    <color name="C_button_text">#B52424</color>
+    <color name="second_background">#000000</color>
+    <color name="operation_button_background">#B52424</color>
+    <color name="operation_button_text">#FFFFFF</color>
+    <color name="numbers_button_background">#242424</color>
+    <color name="numbers_button_text">#FFFFFF</color>
+    <color name="status_bar">#242424</color>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="buttonRow">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="backgroundTint">@color/second_background</item>
+    </style>
+
+    <style name="buttonNumber">
+        <item name="android:layout_width">78.6dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:backgroundTint">@color/numbers_button_background</item>
+        <item name="android:textColor">@color/numbers_button_text</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:onClick">numberAction</item>
+    </style>
+
+    <style name="buttonOperator">6
+        <item name="android:onClick">operationAction</item>
+    </style>
+
+</resources>
